@@ -57,6 +57,26 @@
             height: 200px;
         }
 
-        
+        footer{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        footer h2{
+            text-align: center;
+        }
+
+        footer h2:hover{
+            color: green;
+        }
+
+        footer input{
+            border: 1px solid blue;
+        }
+
+
+
 
 
