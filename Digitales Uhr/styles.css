@@ -78,6 +78,8 @@ body{
 	position: absolute;
 	left: 50%;
 	bottom: 50%;
+	z-index: 5;
+	transform-origin: bottom left;
 	
 }
 
@@ -89,6 +91,8 @@ body{
 	position: absolute;
 	left: 50%;
 	bottom: 50%;
+	z-index: 5;
+	transform-origin: bottom left;
 	
 	}
 
@@ -100,6 +104,8 @@ body{
 	position: absolute;
 	left: 50%;
 	bottom: 50%;
+	z-index: 5;
+	transform-origin: bottom left;
 }
 
 
